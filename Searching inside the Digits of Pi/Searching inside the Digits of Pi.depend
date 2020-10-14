@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598144766 source:c:\users\user\documents\cs4500 intro to software profession\cs4500 hw1 searching inside the digits of pi\hw1.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+
